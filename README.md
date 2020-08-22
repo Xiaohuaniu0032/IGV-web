@@ -21,13 +21,15 @@
 
 * single sample Alignment
 	
-	![single-sample-align]()
+	![single-sample-align](https://github.com/Xiaohuaniu0032/IGV-web/blob/master/img/igv-alignment.png)
 	
 	`https://igv.org/web/release/2.6.2/examples/cram.html`
 	
 	see cram.html code for detail.
 
 * multi-sample Alignment
+
+	![2-sample-align](https://github.com/Xiaohuaniu0032/IGV-web/blob/master/img/igv-2sample.alignment.png)
 	
 	`https://igv.org/web/release/2.6.2/examples/multipleBrowsers.html`
 	
